@@ -1,1 +1,1 @@
-# Brazilian-Houses-to-Rent-Dataset-Analysis-Using-R-Individual-
+# Brazilian Houses to Rent Dataset Analysis Using R (Individual)
